@@ -1,3 +1,6 @@
-# python-basic
-in all python basics in this repo
-in this i attempt all basics like (data types,data structure)
+# PTTHON BASICS
+1.LEARN WITH THE PYTHON DATA TYPE LIKE(INT,FLOAT,STR,BOOL,ETC..)<BR>
+2.LEARN THE PYTHON DATA STRUCTURE LIKE(STRING,LIST,TUPLE,DICTIONARY,RANGE.ETC..)<BR>
+3.LEARN THE OPERATORS LIKE(ARITHMATIC,LOGICAL,BITWISE,RELATION,COMPARISION,ASSIGNMENT,ETC..)<BR>
+4.LEARN THE HIW TI IMPORT MODULES LIKE(MATH,)
+                                                                                
